@@ -2,4 +2,4 @@ A short little program that simulates an interview between me and an interview r
 
 Enjoy!
 
--TrevorSK
+-Trevor
